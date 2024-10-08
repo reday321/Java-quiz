@@ -1,0 +1,210 @@
+[
+  {
+    "question": "What is manual testing?",
+    "option 1": "Testing the software with automated tools",
+    "option 2": "Testing the software without automation tools",
+    "option 3": "Testing the hardware of the system",
+    "option 4": "Testing the software's performance",
+    "answerkey": 2
+  },
+  {
+    "question": "Which of the following is a type of manual testing?",
+    "option 1": "Unit Testing",
+    "option 2": "Integration Testing",
+    "option 3": "System Testing",
+    "option 4": "All of the above",
+    "answerkey": 4
+  },
+  {
+    "question": "What is the main purpose of regression testing?",
+    "option 1": "To test new functionalities",
+    "option 2": "To ensure previously developed and tested software still works after a change",
+    "option 3": "To find bugs in the software",
+    "option 4": "To test the performance of the software",
+    "answerkey": 2
+  },
+  {
+    "question": "What does a test case typically include?",
+    "option 1": "Test steps, expected result, actual result",
+    "option 2": "Only expected result",
+    "option 3": "Only test steps",
+    "option 4": "Only actual result",
+    "answerkey": 1
+  },
+  {
+    "question": "Which of the following is NOT a type of testing?",
+    "option 1": "Smoke Testing",
+    "option 2": "Sanity Testing",
+    "option 3": "User Testing",
+    "option 4": "Graphical Testing",
+    "answerkey": 4
+  },
+  {
+    "question": "What is exploratory testing?",
+    "option 1": "Testing based on requirements",
+    "option 2": "Testing without a formal test plan",
+    "option 3": "Testing using automated tools",
+    "option 4": "Testing based on user stories",
+    "answerkey": 2
+  },
+  {
+    "question": "What is the purpose of a test plan?",
+    "option 1": "To outline the testing strategy and scope",
+    "option 2": "To write test cases",
+    "option 3": "To manage defects",
+    "option 4": "To develop automated tests",
+    "answerkey": 1
+  },
+  {
+    "question": "What is the difference between verification and validation?",
+    "option 1": "Verification checks if the product is built right; validation checks if the right product is built",
+    "option 2": "Both are the same",
+    "option 3": "Verification is done by users; validation is done by developers",
+    "option 4": "Verification is done after the product is released; validation is done before release",
+    "answerkey": 1
+  },
+  {
+    "question": "Which of the following is a non-functional requirement?",
+    "option 1": "Performance",
+    "option 2": "Security",
+    "option 3": "Usability",
+    "option 4": "All of the above",
+    "answerkey": 4
+  },
+  {
+    "question": "What is a defect lifecycle?",
+    "option 1": "The process of defect resolution",
+    "option 2": "The life cycle of the software",
+    "option 3": "The time taken for a feature to be developed",
+    "option 4": "The testing phases in software development",
+    "answerkey": 1
+  },
+  {
+    "question": "What is the primary goal of user acceptance testing (UAT)?",
+    "option 1": "To find defects before release",
+    "option 2": "To ensure the software meets business requirements",
+    "option 3": "To test performance",
+    "option 4": "To test security",
+    "answerkey": 2
+  },
+  {
+    "question": "Which type of testing is performed to check the compatibility of the software with different environments?",
+    "option 1": "System Testing",
+    "option 2": "Integration Testing",
+    "option 3": "Compatibility Testing",
+    "option 4": "Performance Testing",
+    "answerkey": 3
+  },
+  {
+    "question": "What is the main purpose of a bug report?",
+    "option 1": "To document software features",
+    "option 2": "To document issues found during testing",
+    "option 3": "To document user stories",
+    "option 4": "To create test cases",
+    "answerkey": 2
+  },
+  {
+    "question": "What does ‘smoke testing’ refer to?",
+    "option 1": "Testing the core functionality of the application",
+    "option 2": "Testing the complete application",
+    "option 3": "Testing the performance of the application",
+    "option 4": "Testing the security of the application",
+    "answerkey": 1
+  },
+  {
+    "question": "What is the purpose of sanity testing?",
+    "option 1": "To verify that a particular function works",
+    "option 2": "To ensure that new functionality works after changes",
+    "option 3": "To conduct complete regression testing",
+    "option 4": "To test the installation process",
+    "answerkey": 2
+  },
+  {
+    "question": "Which of the following is a black-box testing technique?",
+    "option 1": "Boundary Value Analysis",
+    "option 2": "Code Coverage",
+    "option 3": "Static Analysis",
+    "option 4": "White-box Testing",
+    "answerkey": 1
+  },
+  {
+    "question": "What does test automation focus on?",
+    "option 1": "Creating automated tests for manual test cases",
+    "option 2": "Conducting user acceptance testing",
+    "option 3": "Writing documentation",
+    "option 4": "Performing exploratory testing",
+    "answerkey": 1
+  },
+  {
+    "question": "Which testing method is often used to find defects before system testing?",
+    "option 1": "Unit Testing",
+    "option 2": "Integration Testing",
+    "option 3": "System Testing",
+    "option 4": "Acceptance Testing",
+    "answerkey": 1
+  },
+  {
+    "question": "What is the purpose of test data?",
+    "option 1": "To identify the test cases",
+    "option 2": "To simulate the real-world conditions for testing",
+    "option 3": "To store test results",
+    "option 4": "To generate bug reports",
+    "answerkey": 2
+  },
+  {
+    "question": "What does the term ‘test coverage’ refer to?",
+    "option 1": "The percentage of code tested",
+    "option 2": "The number of tests executed",
+    "option 3": "The types of tests conducted",
+    "option 4": "The bugs found during testing",
+    "answerkey": 1
+  },
+  {
+    "question": "What is the role of a QA tester?",
+    "option 1": "To develop software",
+    "option 2": "To ensure the quality of the software",
+    "option 3": "To manage the development team",
+    "option 4": "To create user stories",
+    "answerkey": 2
+  },
+  {
+    "question": "Which document outlines the strategy and approach to testing?",
+    "option 1": "Test Case",
+    "option 2": "Test Plan",
+    "option 3": "Test Report",
+    "option 4": "Bug Report",
+    "answerkey": 2
+  },
+  {
+    "question": "What is ‘defect density’?",
+    "option 1": "The number of defects per unit of code",
+    "option 2": "The severity of defects",
+    "option 3": "The total number of defects",
+    "option 4": "The number of tests executed",
+    "answerkey": 1
+  },
+  {
+    "question": "What is the key difference between alpha and beta testing?",
+    "option 1": "Alpha testing is done by developers; beta testing is done by end-users",
+    "option 2": "Alpha testing is done after beta testing",
+    "option 3": "Beta testing is done internally; alpha testing is done externally",
+    "option 4": "There is no difference",
+    "answerkey": 1
+  },
+  {
+    "question": "What does a 'test strategy' define?",
+    "option 1": "The objectives of testing",
+    "option 2": "The scope and approach of testing",
+    "option 3": "The types of testing to be performed",
+    "option 4": "All of the above",
+    "answerkey": 4
+  },
+  {
+    "question": "Which of the following is a testing phase in the software development lifecycle?",
+    "option 1": "Requirements Gathering",
+    "option 2": "Design",
+    "option 3": "Implementation",
+    "option 4": "Testing",
+    "answerkey": 4
+  }
+]
